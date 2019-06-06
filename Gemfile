@@ -9,7 +9,8 @@ gem 'sqlite3', '~> 1.3.6'
 gem 'thin'
 gem 'shotgun'
 gem 'pry'
-
+gem 'rack-flash3'
+gem 'faker'
 group :test do
   gem 'rspec'
   gem 'capybara'
